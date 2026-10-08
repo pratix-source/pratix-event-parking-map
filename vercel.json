@@ -1,0 +1,56 @@
+{
+  "rewrites": [
+    {
+      "source": "/event-parking-map",
+      "destination": "/"
+    },
+    {
+      "source": "/etkinlik-otopark-haritasi",
+      "destination": "/"
+    },
+    {
+      "source": "/event-parkplatz-karte",
+      "destination": "/"
+    },
+    {
+      "source": "/carte-evenement-parking",
+      "destination": "/"
+    },
+    {
+      "source": "/mapa-evento-aparcamiento",
+      "destination": "/"
+    },
+    {
+      "source": "/mappa-evento-parcheggio",
+      "destination": "/"
+    },
+    {
+      "source": "/evenement-parkeerkaart",
+      "destination": "/"
+    },
+    {
+      "source": "/evenemangsparkering-karta",
+      "destination": "/"
+    },
+    {
+      "source": "/event-parkeringskort",
+      "destination": "/"
+    },
+    {
+      "source": "/event-parkeringskart",
+      "destination": "/"
+    },
+    {
+      "source": "/tapahtuma-pysakointikartta",
+      "destination": "/"
+    },
+    {
+      "source": "/huodong-tingche-ditu",
+      "destination": "/"
+    },
+    {
+      "source": "/mapa-evento-estacionamento",
+      "destination": "/"
+    }
+  ]
+}
