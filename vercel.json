@@ -51,6 +51,110 @@
     {
       "source": "/mapa-evento-estacionamento",
       "destination": "/"
+    },
+    {
+      "source": "/en/event-parking-map",
+      "destination": "/"
+    },
+    {
+      "source": "/en/event-parking-map/",
+      "destination": "/"
+    },
+    {
+      "source": "/tr/etkinlik-otopark-haritasi",
+      "destination": "/"
+    },
+    {
+      "source": "/tr/etkinlik-otopark-haritasi/",
+      "destination": "/"
+    },
+    {
+      "source": "/de/event-parkplatz-karte",
+      "destination": "/"
+    },
+    {
+      "source": "/de/event-parkplatz-karte/",
+      "destination": "/"
+    },
+    {
+      "source": "/fr/carte-evenement-parking",
+      "destination": "/"
+    },
+    {
+      "source": "/fr/carte-evenement-parking/",
+      "destination": "/"
+    },
+    {
+      "source": "/es/mapa-evento-aparcamiento",
+      "destination": "/"
+    },
+    {
+      "source": "/es/mapa-evento-aparcamiento/",
+      "destination": "/"
+    },
+    {
+      "source": "/it/mappa-evento-parcheggio",
+      "destination": "/"
+    },
+    {
+      "source": "/it/mappa-evento-parcheggio/",
+      "destination": "/"
+    },
+    {
+      "source": "/nl/evenement-parkeerkaart",
+      "destination": "/"
+    },
+    {
+      "source": "/nl/evenement-parkeerkaart/",
+      "destination": "/"
+    },
+    {
+      "source": "/sv/evenemangsparkering-karta",
+      "destination": "/"
+    },
+    {
+      "source": "/sv/evenemangsparkering-karta/",
+      "destination": "/"
+    },
+    {
+      "source": "/da/event-parkeringskort",
+      "destination": "/"
+    },
+    {
+      "source": "/da/event-parkeringskort/",
+      "destination": "/"
+    },
+    {
+      "source": "/no/event-parkeringskart",
+      "destination": "/"
+    },
+    {
+      "source": "/no/event-parkeringskart/",
+      "destination": "/"
+    },
+    {
+      "source": "/fi/tapahtuma-pysakointikartta",
+      "destination": "/"
+    },
+    {
+      "source": "/fi/tapahtuma-pysakointikartta/",
+      "destination": "/"
+    },
+    {
+      "source": "/zh/huodong-tingche-ditu",
+      "destination": "/"
+    },
+    {
+      "source": "/zh/huodong-tingche-ditu/",
+      "destination": "/"
+    },
+    {
+      "source": "/pt/mapa-evento-estacionamento",
+      "destination": "/"
+    },
+    {
+      "source": "/pt/mapa-evento-estacionamento/",
+      "destination": "/"
     }
   ]
 }
